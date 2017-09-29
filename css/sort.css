@@ -1,0 +1,21 @@
+/* 头部搜索 */
+body,html {
+	background: #f2f3f5;
+}
+.header {
+	width: 100%;
+	height: 2.333333rem;
+	background: #fff;
+}
+.header .search {
+	position: relative;
+	margin-left: 1rem;
+}
+.header .search input {
+	width: 80%;
+	height: 1.666667rem;
+	margin-top: 0.333333rem;
+	background: #f2f2f2;
+	padding-left: 0.666667rem;
+	border-radius: 0.833333rem;
+}
